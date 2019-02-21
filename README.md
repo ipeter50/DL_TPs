@@ -1,1 +1,1 @@
-# DL_TPs
+# 02456 Deep Learning Course at DTU. 
